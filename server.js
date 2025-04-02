@@ -222,6 +222,16 @@ app.get('/api/rentals/history', (req, res) => {
   });
 });
 
+app.get('/test', (req, res) => {
+  const fs = require('fs');
+  const path = require('path');
+  
+  // Read the example.json file
+  const exampleData = fs.readFileSync(path.join(__dirname, 'example.json'), 'utf8');
+  const jsonData = JSON.parse(exampleData);
+  
+  res.json(jsonData);
+});
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {

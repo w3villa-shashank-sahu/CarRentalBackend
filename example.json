@@ -1,0 +1,506 @@
+[
+    {
+      "name": "John Smith",
+      "items": [
+        {
+          "name": "Laptop",
+          "price": 1299.99
+        },
+        {
+          "name": "Mouse",
+          "price": 24.95
+        },
+        {
+          "name": "Keyboard",
+          "price": 89.99
+        }
+      ],
+      "details": {
+        "age": 32,
+        "address": {
+          "houseNo": 123,
+          "city": "New York",
+          "state": "NY"
+        }
+      }
+    },
+    {
+      "name": "Emily Johnson",
+      "items": [
+        {
+          "name": "Headphones",
+          "price": 199.99
+        },
+        {
+          "name": "Phone Case",
+          "price": 19.99
+        }
+      ],
+      "details": {
+        "age": 28,
+        "address": {
+          "houseNo": 456,
+          "city": "Los Angeles",
+          "state": "CA"
+        }
+      }
+    },
+    {
+      "name": "Michael Brown",
+      "items": [
+        {
+          "name": "Monitor",
+          "price": 349.99
+        },
+        {
+          "name": "Desk Chair",
+          "price": 179.95
+        },
+        {
+          "name": "Desk Lamp",
+          "price": 45.50
+        },
+        {
+          "name": "Notebook",
+          "price": 12.99
+        }
+      ],
+      "details": {
+        "age": 41,
+        "address": {
+          "houseNo": 789,
+          "city": "Chicago",
+          "state": "IL"
+        }
+      }
+    },
+    {
+      "name": "Sarah Davis",
+      "items": [
+        {
+          "name": "Tablet",
+          "price": 499.99
+        }
+      ],
+      "details": {
+        "age": 35,
+        "address": {
+          "houseNo": 101,
+          "city": "Houston",
+          "state": "TX"
+        }
+      }
+    },
+    {
+      "name": "Robert Wilson",
+      "items": [
+        {
+          "name": "Smart Watch",
+          "price": 299.99
+        },
+        {
+          "name": "Wireless Earbuds",
+          "price": 149.95
+        },
+        {
+          "name": "Phone Charger",
+          "price": 29.99
+        },
+        {
+          "name": "Power Bank",
+          "price": 49.99
+        },
+        {
+          "name": "Screen Protector",
+          "price": 15.99
+        }
+      ],
+      "details": {
+        "age": 45,
+        "address": {
+          "houseNo": 202,
+          "city": "Phoenix",
+          "state": "AZ"
+        }
+      }
+    },
+    {
+      "name": "Jennifer Martinez",
+      "items": [
+        {
+          "name": "Camera",
+          "price": 799.99
+        },
+        {
+          "name": "Camera Lens",
+          "price": 349.95
+        },
+        {
+          "name": "Tripod",
+          "price": 89.99
+        }
+      ],
+      "details": {
+        "age": 29,
+        "address": {
+          "houseNo": 303,
+          "city": "Philadelphia",
+          "state": "PA"
+        }
+      }
+    },
+    {
+      "name": "David Anderson",
+      "items": [
+        {
+          "name": "Gaming Console",
+          "price": 499.99
+        },
+        {
+          "name": "Game Controller",
+          "price": 59.99
+        },
+        {
+          "name": "Video Game",
+          "price": 59.99
+        },
+        {
+          "name": "Gaming Headset",
+          "price": 129.99
+        }
+      ],
+      "details": {
+        "age": 26,
+        "address": {
+          "houseNo": 404,
+          "city": "San Antonio",
+          "state": "TX"
+        }
+      }
+    },
+    {
+      "name": "Lisa Thomas",
+      "items": [
+        {
+          "name": "Blender",
+          "price": 79.99
+        },
+        {
+          "name": "Toaster",
+          "price": 49.99
+        }
+      ],
+      "details": {
+        "age": 38,
+        "address": {
+          "houseNo": 505,
+          "city": "San Diego",
+          "state": "CA"
+        }
+      }
+    },
+    {
+      "name": "James Taylor",
+      "items": [
+        {
+          "name": "Fitness Tracker",
+          "price": 129.99
+        },
+        {
+          "name": "Yoga Mat",
+          "price": 39.99
+        },
+        {
+          "name": "Dumbbells",
+          "price": 89.99
+        },
+        {
+          "name": "Water Bottle",
+          "price": 24.99
+        },
+        {
+          "name": "Gym Bag",
+          "price": 59.99
+        },
+        {
+          "name": "Resistance Bands",
+          "price": 29.99
+        }
+      ],
+      "details": {
+        "age": 33,
+        "address": {
+          "houseNo": 606,
+          "city": "Dallas",
+          "state": "TX"
+        }
+      }
+    },
+    {
+      "name": "Patricia Moore",
+      "items": [],
+      "details": {
+        "age": 52,
+        "address": {
+          "houseNo": 707,
+          "city": "San Jose",
+          "state": "CA"
+        }
+      }
+    },
+    {
+      "name": "Richard Jackson",
+      "items": [
+        {
+          "name": "Coffee Maker",
+          "price": 129.99
+        },
+        {
+          "name": "Coffee Beans",
+          "price": 19.99
+        },
+        {
+          "name": "Coffee Mug",
+          "price": 12.99
+        }
+      ],
+      "details": {
+        "age": 47,
+        "address": {
+          "houseNo": 808,
+          "city": "Austin",
+          "state": "TX"
+        }
+      }
+    },
+    {
+      "name": "Linda White",
+      "items": [
+        {
+          "name": "Printer",
+          "price": 199.99
+        },
+        {
+          "name": "Ink Cartridges",
+          "price": 49.99
+        }
+      ],
+      "details": {
+        "age": 39,
+        "address": {
+          "houseNo": 909,
+          "city": "Jacksonville",
+          "state": "FL"
+        }
+      }
+    },
+    {
+      "name": "Charles Harris",
+      "items": [
+        {
+          "name": "External Hard Drive",
+          "price": 129.99
+        },
+        {
+          "name": "USB Flash Drive",
+          "price": 19.99
+        },
+        {
+          "name": "SD Card",
+          "price": 29.99
+        },
+        {
+          "name": "USB Hub",
+          "price": 39.99
+        }
+      ],
+      "details": {
+        "age": 44,
+        "address": {
+          "houseNo": 1010,
+          "city": "San Francisco",
+          "state": "CA"
+        }
+      }
+    },
+    {
+      "name": "Barbara Clark",
+      "items": [
+        {
+          "name": "Bluetooth Speaker",
+          "price": 89.99
+        }
+      ],
+      "details": {
+        "age": 31,
+        "address": {
+          "houseNo": 1111,
+          "city": "Columbus",
+          "state": "OH"
+        }
+      }
+    },
+    {
+      "name": "Joseph Lewis",
+      "items": [
+        {
+          "name": "Microwave",
+          "price": 149.99
+        },
+        {
+          "name": "Refrigerator",
+          "price": 899.99
+        },
+        {
+          "name": "Dishwasher",
+          "price": 599.99
+        },
+        {
+          "name": "Oven",
+          "price": 799.99
+        },
+        {
+          "name": "Washing Machine",
+          "price": 699.99
+        }
+      ],
+      "details": {
+        "age": 50,
+        "address": {
+          "houseNo": 1212,
+          "city": "Indianapolis",
+          "state": "IN"
+        }
+      }
+    },
+    {
+      "name": "Susan Robinson",
+      "items": [
+        {
+          "name": "Desk",
+          "price": 249.99
+        },
+        {
+          "name": "Bookshelf",
+          "price": 179.99
+        }
+      ],
+      "details": {
+        "age": 36,
+        "address": {
+          "houseNo": 1313,
+          "city": "Charlotte",
+          "state": "NC"
+        }
+      }
+    },
+    {
+      "name": "Thomas Walker",
+      "items": [
+        {
+          "name": "Vacuum Cleaner",
+          "price": 199.99
+        },
+        {
+          "name": "Air Purifier",
+          "price": 249.99
+        },
+        {
+          "name": "Humidifier",
+          "price": 79.99
+        }
+      ],
+      "details": {
+        "age": 42,
+        "address": {
+          "houseNo": 1414,
+          "city": "Seattle",
+          "state": "WA"
+        }
+      }
+    },
+    {
+      "name": "Margaret Hall",
+      "items": [
+        {
+          "name": "Plant Pot",
+          "price": 24.99
+        },
+        {
+          "name": "Garden Tools",
+          "price": 49.99
+        },
+        {
+          "name": "Watering Can",
+          "price": 19.99
+        },
+        {
+          "name": "Fertilizer",
+          "price": 15.99
+        }
+      ],
+      "details": {
+        "age": 55,
+        "address": {
+          "houseNo": 1515,
+          "city": "Denver",
+          "state": "CO"
+        }
+      }
+    },
+    {
+      "name": "Christopher Allen",
+      "items": [
+        {
+          "name": "Bicycle",
+          "price": 599.99
+        },
+        {
+          "name": "Helmet",
+          "price": 79.99
+        },
+        {
+          "name": "Bike Lock",
+          "price": 39.99
+        }
+      ],
+      "details": {
+        "age": 30,
+        "address": {
+          "houseNo": 1616,
+          "city": "Boston",
+          "state": "MA"
+        }
+      }
+    },
+    {
+      "name": "Dorothy Young",
+      "items": [
+        {
+          "name": "Suitcase",
+          "price": 149.99
+        },
+        {
+          "name": "Travel Pillow",
+          "price": 29.99
+        },
+        {
+          "name": "Passport Holder",
+          "price": 19.99
+        },
+        {
+          "name": "Travel Adapter",
+          "price": 24.99
+        }
+      ],
+      "details": {
+        "age": 48,
+        "address": {
+          "houseNo": 1717,
+          "city": "Nashville",
+          "state": "TN"
+        }
+      }
+    }
+  ]
+  
